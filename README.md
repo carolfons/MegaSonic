@@ -9,7 +9,7 @@
 <h1> Table of contents:bulb:</h1>
 
 1. Goal
-   - The main goal tof the project is to create a simple 2D plataform game with simple commands
+   - The main goal tof the project was to create a simple 2D plataform game with simple commands
    such as jump and slide.
 2. Technologies
    - The technologies used at this game is:
