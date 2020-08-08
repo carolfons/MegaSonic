@@ -2,8 +2,7 @@
 
 <p>2D Plataform Game, with simple commands (jump and slide)</p>
 
-<img alt="GitHub" src="https://img.shields.io/github/license/carolfons/MegaSonic">
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/carolfons/MegaSonic">
+<img alt="GitHub" src="https://img.shields.io/github/license/carolfons/MegaSonic"> <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/carolfons/MegaSonic">
 
 ------------------------------------------------------------------------------------------------------------------------
 
