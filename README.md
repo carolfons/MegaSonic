@@ -13,7 +13,7 @@
    - The main goal tof the project is to create a simple 2D plataform game with simple commands
    such as jump and slide.
 2. Technologies
-   - The tehcnologies used at this game is:
+   - The technologies used at this game is:
      - C#
      - Unity
      - VSCode
@@ -21,7 +21,7 @@
 <h1> Status :seedling:</h1>
 <p> It´s done, but some changes can be made, like adding the counter of points and some rewards :hammer: </p>
 
-###Features
+### Features
 
 - [x] Animations (Jump and Slide)
 - [x] Animation Control
