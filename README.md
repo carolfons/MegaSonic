@@ -1,4 +1,5 @@
-# MegaSonic :zap:
+<p align = "center"> <img  src = "https://github.com/carolfons/MegaSonic/blob/master/Sprites/sonic-icon-17.png" alt = "icon" height = "100" width = "100" /> </p>
+<h1>  MegaSonic :zap: </h1>
 
 <p>2D Plataform Game, with simple commands (jump and slide)</p>
 
